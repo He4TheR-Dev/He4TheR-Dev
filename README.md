@@ -1,14 +1,14 @@
 # HE4THER DEV
 
 <p align="center">
-  <img src="assets/he4ther_avatar.png" alt="HE4THER DEV" width="160" style="border-radius:50%;"/>
+  <img src="assets/he4ther_avatar.png" alt="HE4THER DEV" width="160"/>
 </p>
 
 ### Je développe des applications autour du jeu vidéo.
 
-Outils Windows, utilitaires joueurs, logiciels desktop — du concept à la release.
+Outils, utilitaires joueurs, logiciels desktop — du concept à la release.
 
-**C# · .NET · Windows**
+**C# · Python · C++**
 
 ---
 
@@ -24,7 +24,7 @@ Pas de blabla. Des logiciels qui s’installent et qui servent.
 
 | | |
 |---|---|
-| **Build** | Applications Windows prêtes à l’emploi |
+| **Build** | Applications prêtes à l’emploi |
 | **Ship** | Releases propres, testées |
 | **Craft** | UI soignée, packaging soigné |
 
@@ -32,7 +32,7 @@ Pas de blabla. Des logiciels qui s’installent et qui servent.
 
 ### Stack
 
-`C#` `·NET` `WinForms` `WPF` `Open Source`
+`C#` `Python` `C++` `Windows` `Open Source`
 
 ---
 
