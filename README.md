@@ -8,7 +8,28 @@
 </p>
 
 <p align="center">
-  <code>C#</code>&nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;<code>C++</code>&nbsp;&nbsp;<code>Windows</code>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,python,cpp,dotnet,visualstudio,git,github,windows&theme=dark" alt="Tech stack"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="assets/ui-metrics.png" alt="Metrics" width="100%"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=He4TheR-Dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&icon_color=38bdf8&ring_color=c050ff&border_radius=12" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He4TheR-Dev&layout=compact&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&border_radius=12&langs_count=6" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=He4TheR-Dev&hide_border=true&background=09090d&ring=c050ff&fire=c050ff&currStreakNum=e8e8f0&sideNums=e8e8f0&currStreakLabel=c050ff&sideLabels=a0a0b0&dates=707080&border_radius=12" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=He4TheR-Dev&bg_color=09090d&color=c050ff&line=38bdf8&point=c050ff&area=true&area_color=c050ff&hide_border=true&custom_title=He4TheR%20Dev%20Contribution%20Graph" alt="Contribution activity graph"/>
 </p>
 
 <br/>
