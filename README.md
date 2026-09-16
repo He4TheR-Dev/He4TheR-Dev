@@ -53,13 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/lib-heather-returns.png" width="49.2%" alt="HE4THER Returns"/>
-  <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows"><img src="assets/lib-ds4windows.png" width="49.2%" alt="HE4THER DS4 Windows"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows-HS"><img src="assets/lib-ds4windows-hs.png" width="49.2%" alt="HE4THER DS4 Windows HS"/></a>
-  <a href="https://github.com/He4TheR-Dev/RedM-RP-Utility"><img src="assets/lib-redm-utility.png" width="49.2%" alt="RedM RP Utility"/></a>
+  <img src="assets/lib-grid.png" alt="HE4THER product library" width="100%"/>
 </p>
 
 <p align="center">
