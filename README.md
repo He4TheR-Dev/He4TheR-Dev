@@ -1,7 +1,7 @@
 # HE4THER DEV
 
 <p align="center">
-  <img src="assets/he4ther_avatar.png" alt="HE4THER DEV" width="160"/>
+  <img src="assets/he4ther_banner.png" alt="He4TheR FPS — Vision Precision Performance" width="900"/>
 </p>
 
 ### I build applications for the gaming world.
