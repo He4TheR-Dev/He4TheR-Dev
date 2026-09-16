@@ -1,0 +1,48 @@
+name: Update live stats
+
+on:
+  schedule:
+    # Refresh a few times a day so new repos show up quickly
+    - cron: "0 */6 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+  # Also allow other repos to trigger via repository_dispatch
+  repository_dispatch:
+    types: [stats-refresh]
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Generate stats hero
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: He4TheR-Dev
+        run: python scripts/generate_stats_hero.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-hero.png
+          if git diff --staged --quiet; then
+            echo "No stats changes"
+          else
+            git commit -m "chore: refresh live profile stats"
+            git push
+          fi
