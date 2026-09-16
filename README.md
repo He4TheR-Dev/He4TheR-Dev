@@ -50,7 +50,7 @@ Desktop tooling I build — UI, real-time systems, and player-facing apps.
 
 ### Stream — Starting scene
 
-OBS starting scene from the HE4THER pack — gameplay reel, countdown, and branded overlay.
+OBS starting scene from the HE4THER pack — 30s gameplay reel preview, countdown, and branded overlay.
 
 <p align="center">
   <img src="assets/starting-scene.png" alt="HE4THER OBS starting scene — STREAM STARTING" width="720"/>
