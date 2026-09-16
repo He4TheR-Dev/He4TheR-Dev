@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=He4TheR-Dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&icon_color=38bdf8&ring_color=c050ff&border_radius=12" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He4TheR-Dev&layout=compact&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&border_radius=12&langs_count=6" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-one-gilt.vercel.app/api?username=He4TheR-Dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&icon_color=38bdf8&ring_color=c050ff&border_radius=12" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=He4TheR-Dev&layout=compact&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&border_radius=12&langs_count=6" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,16 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=He4TheR-Dev&bg_color=09090d&color=c050ff&line=38bdf8&point=c050ff&area=true&area_color=c050ff&hide_border=true&custom_title=He4TheR%20Dev%20Contribution%20Graph" alt="Contribution activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=He4TheR-Dev&theme=radical" height="200" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=He4TheR-Dev&theme=radical" height="180" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=He4TheR-Dev&theme=radical" height="180" alt="Most commit language"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph?username=He4TheR-Dev&bg_color=09090d&color=c050ff&line=38bdf8&point=c050ff&area=true&area_color=c050ff&hide_border=true&custom_title=He4TheR%20Dev%20Activity" alt="Contribution activity graph"/>
 </p>
 
 <br/>
