@@ -16,13 +16,17 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats-hero.png" alt="HE4THER profile stats" width="100%"/>
+  <img src="assets/stats-hero.png" alt="HE4THER profile stats — auto-updated" width="100%"/>
 </p>
 
 <p align="center">
   <img height="120" src="https://streak-stats.demolab.com?user=He4TheR-Dev&hide_border=true&background=08080c&ring=c050ff&fire=c050ff&currStreakNum=e8e8f0&sideNums=e8e8f0&currStreakLabel=c050ff&sideLabels=a0a0b0&dates=707080&border_radius=12" alt="GitHub streak"/>
   <img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=He4TheR-Dev&theme=radical" alt="Repos per language"/>
   <img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=He4TheR-Dev&theme=radical" alt="Most commit language"/>
+</p>
+
+<p align="center">
+  <sub>Stats refresh automatically when your GitHub activity changes</sub>
 </p>
 
 <img src="assets/ui-divider.png" alt="" width="100%"/>
