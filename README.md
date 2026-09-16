@@ -4,29 +4,29 @@
   <img src="assets/he4ther_avatar.png" alt="HE4THER DEV" width="160"/>
 </p>
 
-### Je développe des applications autour du jeu vidéo.
+### I build applications for the gaming world.
 
-Outils, utilitaires joueurs, logiciels desktop — du concept à la release.
+Player tools, utilities, desktop software — from idea to release.
 
 **C# · Python · C++**
 
 ---
 
-### Ce que je fais
+### What I do
 
-Je crée des apps liées à l’univers gaming : confort de jeu, setup, automatisation, interfaces utiles au quotidien des joueurs.
+I create apps around gaming: comfort tools, setup helpers, automation, and interfaces that make players' daily workflow easier.
 
-Pas de blabla. Des logiciels qui s’installent et qui servent.
+No fluff. Software that installs and just works.
 
 ---
 
-### Approche
+### Approach
 
 | | |
 |---|---|
-| **Build** | Applications prêtes à l’emploi |
-| **Ship** | Releases propres, testées |
-| **Craft** | UI soignée, packaging soigné |
+| **Build** | Ready-to-use applications |
+| **Ship** | Clean, tested releases |
+| **Craft** | Polished UI and packaging |
 
 ---
 
@@ -38,5 +38,5 @@ Pas de blabla. Des logiciels qui s’installent et qui servent.
 
 <p align="center">
   <b>HE4THER DEV</b><br/>
-  <i>Des apps pour les joueurs. Simples. Efficaces.</i>
+  <i>Apps for players. Simple. Effective.</i>
 </p>
