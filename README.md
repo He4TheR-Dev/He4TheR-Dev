@@ -1,38 +1,38 @@
 # HE4THER DEV
 
-### Software that removes friction between you and the game.
+### Je développe des applications autour du jeu vidéo.
 
-I design and ship **Windows tools** for players and RP communities — controller pipelines, vocal setups, branded desktop apps that install clean and run hard.
+Outils Windows, utilitaires joueurs, logiciels desktop — du concept à la release.
 
-**C# · .NET · WinForms / WPF · Open Source**
-
----
-
-### Flagship work
-
-- **[HE4THER-DS4-Windows](https://github.com/He4TheR-Dev/HE4THER-DS4-Windows)** — Custom DS4Windows edition (DualShock / DualSense → Windows)
-- **[HE4THER-DS4-Windows-HS](https://github.com/He4TheR-Dev/HE4THER-DS4-Windows-HS)** — Advanced build with FPS macro window
-- **[RedM-RP-Utility](https://github.com/He4TheR-Dev/RedM-RP-Utility)** — TeamSpeak + SaltyChat hub for RedM roleplay
+**C# · .NET · Windows**
 
 ---
 
-### How I work
+### Ce que je fais
+
+Je crée des apps liées à l’univers gaming : confort de jeu, setup, automatisation, interfaces utiles au quotidien des joueurs.
+
+Pas de blabla. Des logiciels qui s’installent et qui servent.
+
+---
+
+### Approche
 
 | | |
 |---|---|
-| **Ship** | Real installs, real Releases — not demos |
-| **Respect** | Credit upstream. Own every custom layer |
-| **Polish** | UI, packaging, and DX treated as product |
+| **Build** | Applications Windows prêtes à l’emploi |
+| **Ship** | Releases propres, testées |
+| **Craft** | UI soignée, packaging soigné |
 
 ---
 
-### Currently
+### Stack
 
-Building the **HE4THER** ecosystem — controller tooling & RP utilities for competitive and roleplay sessions.
+`C#` `·NET` `WinForms` `WPF` `Open Source`
 
 ---
 
 <p align="center">
   <b>HE4THER DEV</b><br/>
-  <i>Precision tools. Zero fluff. Ready to play.</i>
+  <i>Des apps pour les joueurs. Simples. Efficaces.</i>
 </p>
