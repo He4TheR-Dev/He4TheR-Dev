@@ -1,91 +1,63 @@
-﻿# HE4THER DEV
-
-<p align="center">
-  <img src="assets/he4ther_banner.png" alt="He4TheR FPS — Vision Precision Performance" width="900"/>
+﻿<p align="center">
+  <img src="assets/he4ther_banner.png" alt="HE4THER DEV" width="100%"/>
 </p>
 
-### I build applications for the gaming world.
+<p align="center">
+  <strong>HE4THER DEV</strong><br/>
+  <sub>Gaming software · Windows tools · Stream systems</sub>
+</p>
 
-Player tools, utilities, desktop software — from idea to release.
+<p align="center">
+  <code>C#</code>&nbsp;&nbsp;<code>Python</code>&nbsp;&nbsp;<code>C++</code>&nbsp;&nbsp;<code>Windows</code>
+</p>
 
-**C# · Python · C++**
+<br/>
 
----
+<p align="center">
+  <img src="assets/ui-featured.png" alt="Featured" width="100%"/>
+</p>
 
-### Library
+<p align="center">
+  <a href="https://github.com/He4TheR-Dev/He4TheR-Dev/releases/download/starting-media/starting-preview.mp4">
+    <img src="assets/starting-preview.gif" alt="OBS Stream Starting — HE4THER overlay" width="100%"/>
+  </a>
+</p>
 
-A showcase of HE4THER apps and stream work — UI shots and live scene previews.
+<p align="center">
+  <sub><b>STREAM STARTING</b> — OBS scene · live overlay · countdown</sub>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/He4TheR-Dev/He4TheR-Dev/releases/download/starting-media/starting-preview.mp4">
-        <img src="assets/starting-preview.gif" alt="OBS Stream Starting scene" width="100%"/>
-      </a>
-      <br/>
-      <b>Stream — Starting scene</b><br/>
-      <sub>OBS overlay · STREAM STARTING · countdown</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/lib-heather-returns.png" alt="HE4THER Returns" width="100%"/>
-      <br/>
-      <b>HE4THER Returns</b><br/>
-      <sub>Real-time vision desktop app</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows">
-        <img src="assets/lib-ds4windows.png" alt="HE4THER DS4 Windows" width="100%"/>
-      </a>
-      <br/>
-      <b><a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows">HE4THER DS4 Windows</a></b><br/>
-      <sub>DualShock / DualSense on Windows</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows-HS">
-        <img src="assets/lib-ds4windows-hs.png" alt="HE4THER DS4 Windows HS" width="100%"/>
-      </a>
-      <br/>
-      <b><a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows-HS">HE4THER DS4 Windows HS</a></b><br/>
-      <sub>Advanced macros · FPS tools</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/He4TheR-Dev/RedM-RP-Utility">
-        <img src="assets/lib-redm-utility.png" alt="RedM RP Utility" width="100%"/>
-      </a>
-      <br/>
-      <b><a href="https://github.com/He4TheR-Dev/RedM-RP-Utility">RedM RP Utility</a></b><br/>
-      <sub>TeamSpeak · SaltyChat · cache cleanup</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="assets/starting-scene.png" alt="HE4THER OBS starting still" width="100%"/>
-      <br/>
-      <b>OBS pack — still</b><br/>
-      <sub>Branded stream starting frame</sub>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+<p align="center">
+  <img src="assets/ui-library.png" alt="Product Library" width="100%"/>
+</p>
 
-### Stack
+<p align="center">
+  <img src="assets/lib-heather-returns.png" width="49.2%" alt="HE4THER Returns"/>
+  <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows"><img src="assets/lib-ds4windows.png" width="49.2%" alt="HE4THER DS4 Windows"/></a>
+</p>
 
-`C#` `Python` `C++` `Windows` `Open Source`
+<p align="center">
+  <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows-HS"><img src="assets/lib-ds4windows-hs.png" width="49.2%" alt="HE4THER DS4 Windows HS"/></a>
+  <a href="https://github.com/He4TheR-Dev/RedM-RP-Utility"><img src="assets/lib-redm-utility.png" width="49.2%" alt="RedM RP Utility"/></a>
+</p>
 
----
+<p align="center">
+  <sub>
+    <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows">DS4 Windows</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/He4TheR-Dev/HE4THER-DS4-Windows-HS">DS4 Windows HS</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/He4TheR-Dev/RedM-RP-Utility">RedM RP Utility</a>
+  </sub>
+</p>
 
-### Approach
+<br/>
 
-| | |
-|---|---|
-| **Build** | Ready-to-use applications |
-| **Ship** | Clean, tested releases |
-| **Craft** | Polished UI and packaging |
-
----
+<p align="center">
+  <img src="assets/ui-divider.png" alt="" width="100%"/>
+</p>
 
 <p align="center">
   <b>HE4THER DEV</b><br/>
