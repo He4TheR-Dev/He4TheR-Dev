@@ -20,25 +20,14 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=He4TheR-Dev&theme=radical" alt="GitHub stats"/>
-  <img height="180" src="https://github-contribution-stats.vercel.app/api?username=He4TheR-Dev" alt="Contribution stats"/>
+  <img height="135" src="https://streak-stats.demolab.com?user=He4TheR-Dev&hide_border=true&background=09090d&ring=c050ff&fire=c050ff&currStreakNum=e8e8f0&sideNums=e8e8f0&currStreakLabel=c050ff&sideLabels=a0a0b0&dates=707080&border_radius=12" alt="GitHub streak"/>
+  <img height="135" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=He4TheR-Dev&theme=radical" alt="Repos per language"/>
+  <img height="135" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=He4TheR-Dev&theme=radical" alt="Most commit language"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=He4TheR-Dev&hide_border=true&background=09090d&ring=c050ff&fire=c050ff&currStreakNum=e8e8f0&sideNums=e8e8f0&currStreakLabel=c050ff&sideLabels=a0a0b0&dates=707080&border_radius=12" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=He4TheR-Dev&theme=radical" height="200" alt="Profile details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=He4TheR-Dev&theme=radical" height="180" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=He4TheR-Dev&theme=radical" height="180" alt="Most commit language"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://fabianocouto-activity-graph.vercel.app/graph?username=He4TheR-Dev&bg_color=09090d&color=c050ff&line=38bdf8&point=c050ff&area=true&area_color=c050ff&hide_border=true&custom_title=He4TheR%20Dev%20Activity" alt="Contribution activity graph"/>
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=He4TheR-Dev&theme=radical" alt="Profile details"/>
+  <img height="155" src="https://github-contribution-stats.vercel.app/api?username=He4TheR-Dev" alt="Contribution stats"/>
 </p>
 
 <br/>
