@@ -1,5 +1,9 @@
 # HE4THER DEV
 
+<p align="center">
+  <img src="assets/he4ther_avatar.png" alt="HE4THER DEV" width="160" style="border-radius:50%;"/>
+</p>
+
 ### Je développe des applications autour du jeu vidéo.
 
 Outils Windows, utilitaires joueurs, logiciels desktop — du concept à la release.
