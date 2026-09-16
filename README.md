@@ -50,7 +50,7 @@ Desktop tooling I build — UI, real-time systems, and player-facing apps.
 
 ### Stream — Starting scene
 
-OBS starting scene from the HE4THER pack — autoplaying gameplay preview (full 30s MP4 on click).
+OBS starting scene from the HE4THER pack — STREAM STARTING overlay + countdown (click for MP4).
 
 <p align="center">
   <a href="https://github.com/He4TheR-Dev/He4TheR-Dev/releases/download/starting-media/starting-preview.mp4">
