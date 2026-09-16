@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-one-gilt.vercel.app/api?username=He4TheR-Dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&icon_color=38bdf8&ring_color=c050ff&border_radius=12" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=He4TheR-Dev&layout=compact&hide_border=true&bg_color=09090d&title_color=c050ff&text_color=e8e8f0&border_radius=12&langs_count=6" alt="Top languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=He4TheR-Dev&theme=radical" alt="GitHub stats"/>
+  <img height="180" src="https://github-contribution-stats.vercel.app/api?username=He4TheR-Dev" alt="Contribution stats"/>
 </p>
 
 <p align="center">
