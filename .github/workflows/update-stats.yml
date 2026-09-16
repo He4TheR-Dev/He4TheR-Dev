@@ -1,48 +1,52 @@
-name: Update live stats
+name: Refresh all profile stats
 
 on:
   schedule:
-    # Refresh a few times a day so new repos show up quickly
-    - cron: "0 */6 * * *"
+    # Hourly — keeps languages / streak / repos in sync
+    - cron: "0 * * * *"
   push:
     branches: [main]
+    paths-ignore:
+      - "assets/stats-hero.png"
+      - "assets/widgets/**"
   workflow_dispatch:
-  # Also allow other repos to trigger via repository_dispatch
   repository_dispatch:
     types: [stats-refresh]
 
 permissions:
   contents: write
 
+concurrency:
+  group: refresh-profile-stats
+  cancel-in-progress: true
+
 jobs:
-  stats:
+  refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install Pillow
+      - name: Install deps
         run: pip install pillow
 
-      - name: Generate stats hero
+      - name: Refresh hero + language widgets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_ACTOR: He4TheR-Dev
-        run: python scripts/generate_stats_hero.py
+          STATS_USER: He4TheR-Dev
+        run: python scripts/refresh_all_stats.py
 
-      - name: Commit if changed
+      - name: Commit refreshed stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats-hero.png
+          git add assets/stats-hero.png assets/widgets README.md
           if git diff --staged --quiet; then
             echo "No stats changes"
           else
-            git commit -m "chore: refresh live profile stats"
+            git commit -m "chore: refresh all live profile stats widgets"
             git push
           fi
