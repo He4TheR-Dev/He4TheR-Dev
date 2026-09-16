@@ -1,14 +1,14 @@
-# HE4THER DEV
+﻿# HE4THER DEV
 
 <p align="center">
-  <img src="assets/he4ther_banner.png" alt="He4TheR FPS — Vision Precision Performance" width="900"/>
+  <img src="assets/he4ther_banner.png" alt="He4TheR FPS â€” Vision Precision Performance" width="900"/>
 </p>
 
 ### I build applications for the gaming world.
 
-Player tools, utilities, desktop software — from idea to release.
+Player tools, utilities, desktop software â€” from idea to release.
 
-**C# · Python · C++**
+**C# Â· Python Â· C++**
 
 ---
 
@@ -38,13 +38,13 @@ No fluff. Software that installs and just works.
 
 ### Software examples
 
-Desktop tooling I build — UI, real-time systems, and player-facing apps.
+Desktop tooling I build â€” UI, real-time systems, and player-facing apps.
 
 <p align="center">
-  <img src="assets/example-vision-app.png" alt="HE4THER Returns — real-time vision desktop app UI" width="720"/>
+  <img src="assets/example-heather-returns.png" alt="HE4THER Returns â€” real-time vision desktop app UI" width="720"/>
 </p>
 
-**HE4THER Returns** — Windows desktop app with modular panels for real-time vision: model selection, detection confidence, search zone, target points, and on-screen overlays. Built for low-latency capture and inference workflows.
+**HE4THER Returns** â€” Windows desktop app with modular panels for real-time vision: model selection, detection confidence, search zone, target points, and on-screen overlays. Built for low-latency capture and inference workflows.
 
 ---
 
