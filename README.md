@@ -41,6 +41,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/He4TheR-Dev/hyr4d-releases">
+    <img src="assets/hyr4d-accueil.png" alt="HYR4D — accueil" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="assets/lib-grid.png" alt="HE4THER product library" width="100%"/>
 </p>
 
